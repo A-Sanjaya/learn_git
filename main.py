@@ -1,3 +1,4 @@
 print("Hello, World");
 print("ハロー・ワールド");
-print("Hal, Dunia");
+print("Halo, Dunia");
+print("Hola, Mundo");
